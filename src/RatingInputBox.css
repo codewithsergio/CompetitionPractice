@@ -1,0 +1,42 @@
+.RatingInputBox{
+    margin: auto;
+    margin-top: 1rem;
+    width: 30%;
+    background-color: white;
+    box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+form{
+    flex: 1;
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+input{
+    outline: none;
+    border: none;
+    width: 90%;
+    background-color: rgb(220, 220, 220);
+    border-radius: 0.25rem;
+    white-space: pre-wrap;
+    padding: 0.3rem;
+    margin-top: 1rem;
+}
+
+.file__picker{
+    width: fit-content; 
+}
+
+button{
+    padding: 0.75rem;
+}
+
+.span {
+    color:rgb(220, 220, 220);
+    font-size: 36px;
+}
+  
+.light-up {
+    color: #ffb31c;
+}

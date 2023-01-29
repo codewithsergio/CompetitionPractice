@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(236, 236, 236);
+}
+
+.username{
+    display: flex;
+    justify-content: right;
+    margin-top: 1rem;
+}
