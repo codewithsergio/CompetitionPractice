@@ -1,0 +1,22 @@
+.list{
+    padding-bottom: 2rem;
+    width: fit-content;
+    margin: 1rem auto auto auto;
+}
+
+.rating__box{
+    border-bottom: 1px solid rgb(200, 200, 200);
+    padding: 1rem;
+}
+
+.span {
+    color:rgb(220, 220, 220);
+}
+  
+.light-up {
+    color: #ffb31c;
+}
+
+img {
+    width: 20rem;
+}
